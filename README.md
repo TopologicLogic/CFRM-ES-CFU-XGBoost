@@ -7,11 +7,15 @@ Disclaimer:  These are not 'best' programming practices (it's written in VB afte
 ------------------------------------------------------------------
 
 Deep CFR:
+
 https://arxiv.org/pdf/1901.07621.pdf
 https://arxiv.org/pdf/1811.00164.pdf
 https://github.com/EricSteinberger/Deep-CFR
 
+Much respect to Eric Steinberger.  That kid is only 19.  
+
 Poker-CNN:
+
 https://arxiv.org/pdf/1509.06731.pdf
 
-By the way, much respect to Eric Steinberger.  That kid is only 19.  
+
