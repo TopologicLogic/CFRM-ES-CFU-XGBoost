@@ -6,16 +6,14 @@ Disclaimer:  These are not 'best' programming practices (it's written in VB afte
 
 ------------------------------------------------------------------
 
-Deep CFR:
+Deep CFR:<BR>
+https://arxiv.org/pdf/1901.07621.pdf<BR>
+https://arxiv.org/pdf/1811.00164.pdf<BR>
+https://github.com/EricSteinberger/Deep-CFR<BR>
 
-https://arxiv.org/pdf/1901.07621.pdf
-https://arxiv.org/pdf/1811.00164.pdf
-https://github.com/EricSteinberger/Deep-CFR
+Much respect to Eric Steinberger.  That kid is only 19. <BR>
 
-Much respect to Eric Steinberger.  That kid is only 19.  
-
-Poker-CNN:
-
+Poker-CNN:<BR>
 https://arxiv.org/pdf/1509.06731.pdf
 
 
