@@ -10,7 +10,7 @@ Deep CFR:<BR>
   https://arxiv.org/pdf/1901.07621.pdf<BR>
   https://arxiv.org/pdf/1811.00164.pdf<BR>
   https://github.com/EricSteinberger/Deep-CFR<BR>
-  Much respect to Eric Steinberger.  That kid is only 19. <BR>
+  <I>(Much respect to Eric Steinberger.  That kid is only 19.)</I> <BR>
 
 Poker-CNN:<BR>
   https://arxiv.org/pdf/1509.06731.pdf
