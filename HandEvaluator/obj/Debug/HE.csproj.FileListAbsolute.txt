@@ -1,0 +1,7 @@
+C:\Users\PC\source\repos\Hand Evaluator\HandEvaluator\bin\Debug\HE.xml
+C:\Users\PC\source\repos\Hand Evaluator\HandEvaluator\bin\Debug\HE.dll
+C:\Users\PC\source\repos\Hand Evaluator\HandEvaluator\bin\Debug\HE.pdb
+C:\Users\PC\source\repos\Hand Evaluator\HandEvaluator\obj\Debug\HE.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\Hand Evaluator\HandEvaluator\obj\Debug\HE.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Hand Evaluator\HandEvaluator\obj\Debug\HE.dll
+C:\Users\PC\source\repos\Hand Evaluator\HandEvaluator\obj\Debug\HE.pdb

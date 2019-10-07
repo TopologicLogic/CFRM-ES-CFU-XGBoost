@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="Current">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{FB525656-5BDD-481F-8797-221B25B7F002}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Lutv2</RootNamespace>
+    <AssemblyName>Lutv2</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>2.0</OldToolsVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="PreFlopTable.cs" />
+    <Compile Include="FastSerializer.cs" />
+    <Compile Include="FlopSuit.cs" />
+    <Compile Include="FlopTable.cs" />
+    <Compile Include="Converter\HandConverter.cs" />
+    <Compile Include="Helper.cs" />
+    <Compile Include="ProbVector.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RiverSuit.cs" />
+    <Compile Include="RiverTable.cs" />
+    <Compile Include="RNG\FastRNG.cs" />
+    <Compile Include="RNG\KISSRandom.cs" />
+    <Compile Include="Suits.cs" />
+    <Compile Include="Table.cs" />
+    <Compile Include="TurnSuit.cs" />
+    <Compile Include="TurnTable.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Hand Evaluator\HandEvaluator\HE.csproj">
+      <Project>{DCA886F7-A60D-4B40-A8B9-5D3D429E35B4}</Project>
+      <Name>HE</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\FO2\FO2.vbproj">
+      <Project>{CF06EE47-87AB-41F3-96B5-FB6E0FC3C99B}</Project>
+      <Name>FO2</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

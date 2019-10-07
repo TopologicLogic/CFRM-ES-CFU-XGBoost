@@ -1,0 +1,6 @@
+C:\Documents and Settings\Administrator\Desktop\Poker Stuff\Hand Evaluator\HandEvaluator\bin\Debug\HandEvaluator.dll
+C:\Documents and Settings\Administrator\Desktop\Poker Stuff\Hand Evaluator\HandEvaluator\bin\Debug\HandEvaluator.pdb
+C:\Documents and Settings\Administrator\Desktop\Poker Stuff\Hand Evaluator\HandEvaluator\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\Poker Stuff\Hand Evaluator\HandEvaluator\obj\Debug\HandEvaluator.dll
+C:\Documents and Settings\Administrator\Desktop\Poker Stuff\Hand Evaluator\HandEvaluator\obj\Debug\HandEvaluator.pdb
+C:\Documents and Settings\Administrator\Desktop\Poker Stuff\Hand Evaluator\HandEvaluator\bin\Debug\HandEvaluator.XML

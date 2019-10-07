@@ -1,0 +1,6 @@
+C:\Users\Dev\Documents\Visual Studio 2005\Projects\Hand Evaluator\HandEvaluator\bin\Debug\HE.dll
+C:\Users\Dev\Documents\Visual Studio 2005\Projects\Hand Evaluator\HandEvaluator\bin\Debug\HE.pdb
+C:\Users\Dev\Documents\Visual Studio 2005\Projects\Hand Evaluator\HandEvaluator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dev\Documents\Visual Studio 2005\Projects\Hand Evaluator\HandEvaluator\obj\Debug\HE.dll
+C:\Users\Dev\Documents\Visual Studio 2005\Projects\Hand Evaluator\HandEvaluator\obj\Debug\HE.pdb
+C:\Users\Dev\Documents\Visual Studio 2005\Projects\Hand Evaluator\HandEvaluator\bin\Debug\HE.xml

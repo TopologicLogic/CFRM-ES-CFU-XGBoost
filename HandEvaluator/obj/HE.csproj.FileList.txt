@@ -1,0 +1,11 @@
+bin\Release\HE.dll
+bin\Release\HE.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\HE.dll
+obj\Release\HE.pdb
+bin\Debug\HE.dll
+bin\Debug\HE.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\HE.dll
+obj\Debug\HE.pdb
+bin\Release\HE.xml
