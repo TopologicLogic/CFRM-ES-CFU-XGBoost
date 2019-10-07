@@ -651,7 +651,7 @@ Module Module_XGBoost
         Dim po As New ParallelOptions
         po.MaxDegreeOfParallelism = System.Environment.ProcessorCount
 
-        ' Doesn't work for some reason.  Causes hangs.
+
         Parallel.For(1, 300000, po, Sub(i, state)
 
                                         SyncLock l
