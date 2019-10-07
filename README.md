@@ -7,13 +7,16 @@ Disclaimer:  These are not 'best' programming practices (it's written in VB afte
 ------------------------------------------------------------------
 
 Deep CFR:<BR>
-https://arxiv.org/pdf/1901.07621.pdf<BR>
-https://arxiv.org/pdf/1811.00164.pdf<BR>
-https://github.com/EricSteinberger/Deep-CFR<BR>
-
-Much respect to Eric Steinberger.  That kid is only 19. <BR>
+  https://arxiv.org/pdf/1901.07621.pdf<BR>
+  https://arxiv.org/pdf/1811.00164.pdf<BR>
+  https://github.com/EricSteinberger/Deep-CFR<BR>
+  Much respect to Eric Steinberger.  That kid is only 19. <BR>
 
 Poker-CNN:<BR>
-https://arxiv.org/pdf/1509.06731.pdf
+  https://arxiv.org/pdf/1509.06731.pdf
 
+HoldemHand:<BR>
+  https://www.codeproject.com/Articles/12279/Fast-Texas-Holdem-Hand-Evaluation-and-Analysis
 
+SharpLearning/XGBoost:<BR>
+  https://github.com/mdabros/SharpLearning
